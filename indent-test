@@ -6,4 +6,15 @@ private:
 	Vector3		_position;
 	vector<int>	_children;
 	bool		_flag;
+	
+	const char*	_a;
+	int			_b;
+	
+public:
+	Hoge ()
+	: _id (0)
+	{
+		int		n;
+		float	m;
+	}
 }
