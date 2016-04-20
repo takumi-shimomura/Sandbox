@@ -1,0 +1,9 @@
+// 擬似コード
+class Hoge {
+private:
+	int			_id;
+	string		_name;
+	Vector3		_position;
+	vector<int>	_children;
+	bool		_flag;
+}
